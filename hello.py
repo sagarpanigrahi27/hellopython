@@ -1,1 +1,2 @@
-print('Hello World. This is Python')
+def index(req):
+  return "Hello World";
